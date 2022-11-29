@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534382366346",
+    "project_id": "frutas-a-z",
+    "storage_bucket": "frutas-a-z.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534382366346:android:220aff4a8805d673962773",
+        "android_client_info": {
+          "package_name": "br.com.bitleyapp.frutas_az"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534382366346-1m920q92cog0s8bb2drsmgjrhlic1ck3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6E_zz1MvE36DPkpeyzLx7EL0ODvsE_wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534382366346-1m920q92cog0s8bb2drsmgjrhlic1ck3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4337055906490098~3980865621"
+    }
+  ],
+  "configuration_version": "1"
+}
